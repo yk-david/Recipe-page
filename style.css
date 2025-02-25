@@ -81,7 +81,7 @@ section li::marker {
   border-radius: 12px;
 }
 
-.time-section h3.title {
+.time-section .title {
   font-size: 1.25rem;
   font-family: 'Outfit', sans-serif;
 }
