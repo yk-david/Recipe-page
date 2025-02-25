@@ -147,7 +147,7 @@ section li::marker {
   .app {
     background: #fff;
     max-width: 616px;
-    margin: 0 auto;
+    margin: 8em auto;
     border-radius: 24px;
     padding: 2.5em;
   }
@@ -180,6 +180,5 @@ section li::marker {
 @media (min-width: 1024px) {
   .app {
     max-width: 736px;
-    margin: 0 auto;
   }
 }
